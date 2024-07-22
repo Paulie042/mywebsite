@@ -6,3 +6,21 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+
+
+
+
+
+
+header {
+  background-color: #f0f0f0; /* Replace with your desired color */
+  height: 50px; /* Adjust height as needed */
+  display: flex; /* To position elements horizontally */
+  align-items: center; /* Vertically center content */
+}
+
+.title {
+  font-family: 'Dancing Script', cursive; /* Replace 'Dancing Script' with your chosen cursive font */
+  margin-left: 20px; /* Adjust margin for spacing */
+}
