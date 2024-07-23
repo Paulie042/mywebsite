@@ -10,10 +10,18 @@
 
 
 
-
 nav ul {
   list-style: none;
   display: flex;
-  /* Remove text-align: center; */
-  justify-content: space-between; /* Optional: Distribute items evenly */
+  justify-content: space-between; /* Adjust as needed */
+}
+
+nav li {
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff; /* Link color */
+  font-family: Roboto, sans-serif;
 }
