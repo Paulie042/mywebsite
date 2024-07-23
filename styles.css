@@ -25,3 +25,7 @@ nav a {
   color: #fff; /* Link color */
   font-family: Roboto, sans-serif;
 }
+
+.container {
+  display: flex; /* Sets up the container as a flex container */
+}
